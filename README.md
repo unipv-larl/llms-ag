@@ -42,9 +42,13 @@ The Python script used for fine-tuning Mistral-Nemo on the fine-tuning data coll
 
 For questions or collaboration, feel free to open an issue or contact:
 
-[Your Name]
-[Institution or Lab Name]
-[Email address] (optional or obfuscated, e.g., name [at] institution [dot] edu)
+Chiara Zanchi
+Università di Pavia
+chiara.zanchi@unipv.it
+
+Beatrice Marchesi
+Università di Pavia
+beatrice.marchesi01@universitadipavia.it
 
 **Acknowledgments**
 
