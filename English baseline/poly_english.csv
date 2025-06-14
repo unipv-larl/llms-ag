@@ -1,41 +1,41 @@
-word;synset;pos
-idea;"the content of cognition; the main thing you are thinking about";noun
-hold;"be the physical support of; carry the weight of";verb
-order;a legally binding command or decision entered on the court record (as if issued by a court or judge);noun
-indicate;"indicate a place, direction, person, or thing; either spatially or figuratively";verb
-strength;the property of being physically or mentally strong;noun
-god;any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force;noun
-softness;acting in a manner that is gentle and mild and even-tempered;noun
-ordinary;not exceptional in any way especially in quality or ability or size or degree;adj
-keep;maintain in safety from injury, harm, or danger;verb
-dissipate;to cause to separate and go in different directions;verb
-effort;"use of physical or mental energy; hard work";noun
-stingy;deficient in amount or quality or extent;adj
-fruitful;productive or conducive to producing in abundance;adj
-noxious;injurious to physical or mental health;adj
-heroic;"possessing or displaying courage; able to face and deal with danger or fear without flinching";adj
-evil;morally bad or wrong;adj
-stupid;lacking or marked by lack of intellectual acuity;adj
-dark;"devoid of or deficient in light or brightness; shadowed or black";adj
-abundant;present in great quantity;adj
-build;put together out of artificial or natural components or parts;verb
-gentle;having or showing a kindly or tender nature;adj
-otherwise;in another and different manner;adv
-want;the state of needing something that is absent or unavailable;noun
-extravagantly;in an abundant manner;adv
-often;many times at short intervals;adv
-summon;'ask to come;verb
-constantly;without interruption;adv
-shortly;"in a concise manner; in a few words";adv
-stretch;extend or stretch out to a greater or the full length;verb
-fight;a hostile meeting of opposing military forces in the course of a war;noun
-jointly;"in conjunction with; combined";adv
-beginning;the first part or section of something;noun
-subsequently;happening at a time subsequent to a reference time;adv
-make;"cause to do; cause to act in a specified manner";verb
-swiftly;with speed;adv
-decorate;make more attractive by adding ornament, colour, etc.;verb
-prove;establish the validity of something, as by an example, explanation or experiment;verb
-altogether;to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly');adv
-mass;(often followed by `of') a large number or amount or extent;noun
-directly;"without delay or hesitation; with no time intervening";adv
+word;pos
+idea;noun
+hold;verb
+order;noun
+indicate;verb
+strength;noun
+god;noun
+softness;noun
+ordinary;adj
+keep;verb
+dissipate;verb
+effort;noun
+stingy;adj
+fruitful;adj
+noxious;adj
+heroic;adj
+evil;adj
+stupid;adj
+dark;adj
+abundant;adj
+build;verb
+gentle;adj
+otherwise;adv
+want;noun
+extravagantly;adv
+often;adv
+summon;verb
+constantly;adv
+shortly;adv
+stretch;verb
+fight;noun
+jointly;adv
+beginning;noun
+subsequently;adv
+make;verb
+swiftly;adv
+decorate;verb
+prove;verb
+altogether;adv
+mass;noun
+directly;adv

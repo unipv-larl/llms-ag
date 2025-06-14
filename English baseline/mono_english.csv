@@ -1,41 +1,41 @@
-word;synset;pos
-ancestor;someone from whom you are descended (but usually more remote than a grandparent);noun
-ritual_killing;the act of killing (an animal or person) in order to propitiate a deity;noun
-thief;a criminal who takes property belonging to someone else with the intention of keeping it or selling it;noun
-rescuer;a person who rescues you from harm or danger;noun
-speechmaker;a person who delivers a speech or oration;noun
-gourmand;a person who is devoted to eating and drinking to excess;noun
-cumulation;a collection of objects laid on top of each other;noun
-environ;"extend on all sides of simultaneously; encircle";verb
-untruth;a false statement;noun
-shrewdly;in a shrewd manner;adv
-bovid;of or relating to or belonging to the genus Bos (cattle);adj
-southern;situated in or coming from regions of the south;adj
-Grecian;of or relating to or characteristic of Greece or the Greeks or the Greek language;adj
-starry;abounding with or resembling stars;adj
-sing;produce tones with the voice;verb
-brutish;"resembling a beast; showing lack of human sensibility";adj
-miscellaneous;consisting of a haphazard assortment of different kinds;adj
-lacerate;cut or tear irregularly;verb
-merge;join or combine;verb
-covetously;in a greedy manner;adv
-negative;expressing or consisting of a negation or refusal or denial;adj
-additional;further or added;adj
-northern;situated in or coming from regions of the north;adj
-silver-tongued;expressing yourself readily, clearly, effectively;adj
-umpire;someone chosen to judge and decide a disputed issue;noun
-remove;remove something concrete, as by lifting, pushing, or taking off, or remove something abstract;verb
-dawn;become light;verb
-totter;move without being stable, as if threatening to fall;verb
-javelin;a spear thrown as a weapon or in competitive field events;noun
-sieve;separate by passing through a sieve or other straining device to separate out coarser elements;verb
-correspondingly;in like or similar manner;adv
-pare;strip the skin off;verb
-putrefy;"become putrid; decay with an offensive smell";verb
-indefatigably;with indefatigable energy;adv
-mendaciously;in a mendacious and untruthful manner;adv
-affectionately;with affection;adv
-differently;in another and different manner;adv
-appropriately;in accordance with what is appropriate or suitable for the circumstances;adv
-easily;with ease (`easy' is sometimes used informally for `easily');adv
-laboriously;in a laborious manner;adv
+word;pos
+ancestor;noun
+ritual_killing;noun
+thief;noun
+rescuer;noun
+speechmaker;noun
+gourmand;noun
+cumulation;noun
+environ;verb
+untruth;noun
+shrewdly;adv
+bovid;adj
+southern;adj
+Grecian;adj
+starry;adj
+sing;verb
+brutish;adj
+miscellaneous;adj
+lacerate;verb
+merge;verb
+covetously;adv
+negative;adj
+additional;adj
+northern;adj
+silver-tongued;adj
+umpire;noun
+remove;verb
+dawn;verb
+totter;verb
+javelin;noun
+sieve;verb
+correspondingly;adv
+pare;verb
+putrefy;verb
+indefatigably;adv
+mendaciously;adv
+affectionately;adv
+differently;adv
+appropriately;adv
+easily;adv
+laboriously;adv
