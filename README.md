@@ -32,7 +32,7 @@ Each of the datasets is balanced for part-of-speech (PoS), thus cointaining 10 n
 
 **Fine-tuning data**
 
-The fine-tuning data in json format is divided into training data (80%) and validation data (20%). The data consists in sets of synonyms automatically collected from back-translation dictionaries of Ancient Greek.
+The fine-tuning data in jsonl format is divided into training data (80%) and validation data (20%). The data consists in sets of synonyms automatically collected from back-translation dictionaries of Ancient Greek.
 
 **Fine-tuning script**
 
