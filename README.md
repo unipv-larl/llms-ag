@@ -30,6 +30,14 @@ An English baseline is included for comparison with a high-resource and modern l
   
 Each of the datasets is balanced for part-of-speech (PoS), thus cointaining 10 nouns, 10 verbs, 10 adjectives and 10 adverbs.
 
+**Fine-tuning data**
+
+The fine-tuning data in json format is divided into training data (80%) and validation data (20%). The data consists in sets of synonyms automatically collected from back-translation dictionaries of Ancient Greek.
+
+**Fine-tuning script**
+
+The Python script used for fine-tuning Mistral-Nemo on the fine-tuning data collected is available in this repository. The code relies on a GPU node to run.
+
 **Contact**
 
 For questions or collaboration, feel free to open an issue or contact:
