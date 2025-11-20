@@ -3,7 +3,7 @@
 This repository is associated with a paper presented at the 2025 CLiC-it conference.
 
 
-This repository contains the datasets, fine-tuning data, and code used to explore the use of large language models (LLMs) in semi-automating the population of the Ancient Greek WordNet (AGWN) through synonym generation.
+This repository contains the datasets, fine-tuning data and code, and output validation data used to explore the use of large language models (LLMs) in semi-automating the population of the Ancient Greek WordNet (AGWN) through synonym generation.
 To cite this work, please acknowledge the repository appropriately and check back for future updates upon publication.
 
 **Description**
@@ -18,12 +18,12 @@ The goal is to assist the semi-automatic enrichment of the Ancient Greek WordNet
 
 **Datasets**
 
-The Ancient Greek datasets were manually crafted and divided into:
+The Ancient Greek datasets, available in the 'AG Datasets' folder, were manually crafted and divided into:
 
 - a (roughly) monosemous dataset, collecting lemmas associated to just one meaning according to the LSJ lexicon (Liddel et al., 1996).
 - a (roughly) polysemous dataset, collecting lemmas associated to more than one meaning according to the LSJ lexicon (Liddel et al., 1996).
 
-An English baseline is included for comparison with a high-resource and modern language. The following datasets were manually created:
+An English baseline is included for comparison with a high-resource and modern language. The following datasets, available in the 'English baseline' folder, were manually created:
 
 - a (roughly) monosemous dataset, collecting translations of the AG dataset that are roughly monosemous English words.
 - a (roughly) polysemous dataset, collecting translations of the AG dataset that are mainly polysemous English words.
@@ -33,14 +33,20 @@ Each of the datasets is balanced for part-of-speech (PoS), thus cointaining 10 n
 **Fine-tuning data**
 
 The fine-tuning data in jsonl format is divided into training data (80%) and validation data (20%). The data consists in sets of synonyms automatically collected from back-translation dictionaries of Ancient Greek.
+The data is available in the 'Data for fine-tuning' folder.
 
 **Fine-tuning script**
 
-The Python script used for fine-tuning Mistral-Nemo on the fine-tuning data collected is available in this repository. The code relies on a GPU node to run.
+The Python script used for fine-tuning Mistral-Nemo on the fine-tuning data collected is available in this repository ('ft_script.py') together with the requirements needed to run the cose ('requirements.txt'). The code relies on a GPU node to run.
+
+**Validation of the results**
+
+The validation of the results consisted in a first step of automatic lemmatization of each output word and then the manual validation of the results by three annotators, determining for each generated item if it constituted a potential synonym of the input word. In cases of disagreement between the annotators, the matter was resolved through discussion until an agreement was reached.
+This data is available in the 'Output validation' folder.
 
 **Contact**
 
-For questions or collaboration, feel free to open an issue or contact:
+For questions or collaboration, feel free to contact:
 
 Chiara Zanchi,
 Università di Pavia
