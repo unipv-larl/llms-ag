@@ -1,6 +1,6 @@
 **Towards the Semi-Automated Population of the Ancient Greek WordNet**
 
-⚠️ This repository is associated with a paper currently under submission. The results and methods may be subject to revision.
+This repository is associated with a paper presented at the 2025 CLiC-it conference.
 
 
 This repository contains the datasets, fine-tuning data, and code used to explore the use of large language models (LLMs) in semi-automating the population of the Ancient Greek WordNet (AGWN) through synonym generation.
@@ -55,3 +55,11 @@ beatrice.marchesi03@universitadipavia.it
 The authors wish to express their sincere gratitude to Cristiano Chesi for granting access to the GPU node employed for fine-tuning, which was made available through the High-Performance Computing (HPC) cluster at IUSS Pavia.
 
 Research for this study was funded through the European Union Funding Program – NextGenerationEU – Missione 4 Istruzione e ricerca - componente 2, investimento 1.1” Fondo per il Programma Nazionale della Ricerca (PNR) e Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN)” progetto PRIN\_2022 2022YAPFNJ "Linked WordNets for Ancient Indo-European Languages" CUP F53D2300490 0001 - Dipartimento Studi Umanistici (Università di Pavia) and CUP J53D23008370001 – Dipartimento di Filologia classica, Papirologia e Linguistica storica (Università Cattolica del Sacro Cuore, Milano).
+
+
+**How to cite**
+If you want to cite this work please reference it through these citations:
+
+- Marchesi Beatrice. (2025). Toward semi-automatic synset population: LLM-based approaches for Ancient Greek WordNet expansion. [Master's thesis, Università degli Studi di Pavia].
+
+- Beatrice Marchesi, Annachiara Clementelli, Andrea Maurizio Mammarella, Silvia Zampetta, Erica Biagetti, Luca Brigada Villa, Virginia Mastellari, Riccardo Ginevra, Claudia Roberta Combei and Chiara Zanchi. (Forthcoming). Towards the Semi-Automated Population of the Ancient Greek WordNet. Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025).
