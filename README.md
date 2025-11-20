@@ -58,6 +58,7 @@ Research for this study was funded through the European Union Funding Program ‚Ä
 
 
 **How to cite**
+
 If you want to cite this work please reference it through these citations:
 
 - Marchesi Beatrice. (2025). Toward semi-automatic synset population: LLM-based approaches for Ancient Greek WordNet expansion. [Master's thesis, Universit√† degli Studi di Pavia].
